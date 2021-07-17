@@ -44,6 +44,7 @@
 
   * The winner of the election based on popular vote.
   
+  ```text
   Election Results
   -------------------------
   Total Votes: 3521001
